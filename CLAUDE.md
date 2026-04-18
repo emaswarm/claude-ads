@@ -1,5 +1,9 @@
 # Claude Ads: Paid Advertising Audit & Optimization Skill
 
+## Project Mode: Collaborative
+
+Reusable open-source skill. Standalone; not integrated with EMA swarm infrastructure (brain/dream/dialogue-bus). Safe to publish externally.
+
 ## Project Overview
 
 This repository contains **Claude Ads**, a Tier 4 Claude Code skill for comprehensive
